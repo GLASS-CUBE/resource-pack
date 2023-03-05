@@ -1,0 +1,37 @@
+{"providers":[
+		{
+			"type": "bitmap",
+			"file": "minecraft:pics/logo.png",
+			"height": 100,
+			"ascent": 50,
+			"chars": [
+				"¶"
+			]
+		},
+		{
+			"ascent":19,
+			"chars":["ɀ"],
+			"file":"custom/ui/menu_join_1.png",
+			"height":256,
+			"type":"bitmap"
+		},
+
+		{
+			"ascent":19,
+			"chars":["Ɂ"],
+			"file":"custom/ui/menu_join_2.png",
+			"height":256,
+			"type":"bitmap"
+		},
+		{
+			"ascent":19,
+			"chars":["ɂ"],
+			"file":"custom/ui/menu_join_3.png",
+			"height":256,
+			"type":"bitmap"
+		},
+
+		{"ascent":250,"chars":[""],"file":"custom/ui/black_box.png","height":1500,"type":"bitmap"},{"ascent":19,"chars":["솈"],"file":"custom/ui/menu_cosmetics2.png","height":256,"type":"bitmap"},{"ascent":19,"chars":["솯"],"file":"custom/ui/menu_cosmetics.png","height":256,"type":"bitmap"},{"ascent":19,"chars":["섈"],"file":"custom/ui/carpentry_table.png","height":256,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"custom/ui/pixel_nosplit.png","height":-3,"type":"bitmap"}
+
+]
+}

@@ -1,0 +1,1 @@
+{"overrides":[{"model":"custom/ui/paint_button","predicate":{"custom_model_data":8005}},{"model":"custom/cosmetics/backpack","predicate":{"custom_model_data":10034}},{"model":"item/paper","predicate":{"custom_model_data":12000}}],"parent":"item/handheld_rod","textures":{"layer0":"item/leather_horse_armor"}}
